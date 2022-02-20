@@ -12,6 +12,3 @@ Created a build environment using GNU Make and Makefiles to support two platform
 
 See: Makefile, sources.mk
 
-Week 3 -
-
-Week 4 - 
